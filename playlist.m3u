@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tvrisport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="Sports",TVRI Sport
+#EXTINF:-1,TVRI Sport
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 
-#EXTINF:-1 tvg-id="mdtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/960px-MDTV_logo.svg.png" group-title="National",MDTV
+#EXTINF:-1,MDTV
 http://103.148.44.38:8000/play/a05b/index.m3u8
 
-#EXTINF:-1 tvg-id="moji" tvg-logo="https://i.imgur.com/mM9zapJ.png" group-title="Sports",MOJI
+#EXTINF:-1,MOJI
 https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
-#EXTINF:-1 tvg-id="rtv" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="National",RTV
+#EXTINF:-1,RTV
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 
-#EXTINF:-1 tvg-id="spacetoon" tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Kids",Spacetoon
+#EXTINF:-1,Spacetoon
 http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8
 
-#EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="National",Trans7
+#EXTINF:-1,Trans7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="transtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png" group-title="National",Trans TV
+#EXTINF:-1,Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="tvriworld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png" group-title="News",TVRI World
+#EXTINF:-1,TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 tvg-id="beinsportsxtra" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",beIN Sports Xtra
+#EXTINF:-1,beIN Sports Xtra
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
